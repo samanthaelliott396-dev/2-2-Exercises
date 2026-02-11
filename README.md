@@ -1,5 +1,5 @@
 # Text01.java
-- Set breakpoints and ran cose in debug mode
+- Set breakpoints and ran code in debug mode
 
 # Text02.java
 Fixed errors:
